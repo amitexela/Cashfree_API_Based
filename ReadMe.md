@@ -1,4 +1,4 @@
-## UPI Payment Gateway for React Native CLI
+## Cashfree API based Payment Gateway
 
 ### To run this project
 npm install
